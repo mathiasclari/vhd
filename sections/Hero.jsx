@@ -32,7 +32,7 @@ const Hero = () => (
             <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
 
             <img
-                src="https://scontent.flju1-1.fna.fbcdn.net/v/t39.30808-6/315775885_114399258150354_2904034755956858542_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=osSSKyk4JPAAX9bKVwN&_nc_ht=scontent.flju1-1.fna&oh=00_AfABOmx9OBs87eS80O4WhaT9XlPIEFbWu1dK4kXFOkRwQg&oe=63E93480"
+                src="/laser.jpg"
                 alt="hero_cover"
                 className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
             />
